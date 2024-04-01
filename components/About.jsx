@@ -34,7 +34,7 @@ const About = () => {
             <p className=" ml-4 my-2 max-w-xl py-6 text-center lg:text-left">
               {ABOUT_TEXT}
             </p>
-            <div className="text-center lg:text-left">
+            <div className="text-center lg:text-left ml-4">
               <h2 className="ml-4 text-2xl font-bold text-neutral-300">
                 Contact Details
               </h2>
